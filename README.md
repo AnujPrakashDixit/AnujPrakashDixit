@@ -1,46 +1,36 @@
-# Hey there 👋
+# Anuj Prakash Dixit
 
-I'm Anuj, an aspiring backend developer and CSE undergrad based in India.
+Backend developer in the making. B.Tech CSE @ UPES Dehradun.
 
-I enjoy building things on the server side — designing APIs, handling data flow, and understanding how systems work under the hood.
-
-Currently leveling up through hands-on projects, going from zero to production-ready backends one endpoint at a time. Everything I build is from scratch — no shortcuts.
+I build server-side systems from scratch — APIs, auth flows, database architecture. Everything production-ready, no shortcuts.
 
 ---
 
-## 🛠️ Tools & Tech
+## Stack
 
-- **Node.js, Express.js** — building REST APIs
-- **MongoDB, Mongoose** — data modeling and persistence
-- **JWT, Cookies** — authentication flows
-- **Git & GitHub** — version control
+Node.js · Express.js · MongoDB · Mongoose · JWT · Socket.IO · AWS (EC2, S3, Lambda) · Git
 
 ---
 
-## 🔨 What I'm Working On
+## Projects
 
-- A **ledger system** — account management, debit/credit transactions, JWT auth with MongoDB
-- A **real-time collaborative code editor** (CoCode) — built with React, Node/Express, and Socket.IO
+**Backend Ledger** — Core banking system with double-entry ledger, MongoDB transactions, aggregation pipelines, and Nodemailer alerts.
 
----
-
-## 📚 Currently Learning
-
-- Backend architecture and system design thinking
-- MongoDB sessions and multi-document transactions
-- How real-world auth systems are structured
+**CoCode** — Real-time collaborative code editor. 10+ concurrent users, sub-100ms latency via Socket.IO.
 
 ---
 
-## 🙋 A Bit About Me
+## Experience
 
-- 🎓 B.Tech CSE student
-- 🔧 I like understanding *why* things work, not just *how* to make them work
-- 💡 Prefer building > reading docs (but I do both)
-- 🤝 Open to collaborating on beginner-friendly backend projects
+**IBM** (Project Intern, Remote) — Built a Federated Learning framework in PyTorch with 98% accuracy. Hardened AWS infrastructure with IAM, KMS, and encryption.
 
 ---
 
-## 📬 Connect
+## Currently Building
+
+**ColdIn** — AI-powered cold email generator. Node.js, Gemini API, JWT auth, MongoDB.
+
+---
 
 [![GitHub](https://img.shields.io/badge/GitHub-AnujPrakashDixit-181717?style=flat&logo=github)](https://github.com/AnujPrakashDixit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anujprakashdixit-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/anujprakashdixit)
