@@ -8,7 +8,7 @@ I build server-side systems from scratch. APIs, auth flows, database architectur
 
 ## Stack
 
-**Languages** — JavaScript, C++, HTML
+**Languages** — JavaScript, C++, TypeScript
 
 **Runtime & Framework** — Node.js, Express.js, React.js
 
