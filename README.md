@@ -26,6 +26,6 @@ I build server-side systems from scratch. APIs, auth flows, database architectur
 
 **CoCode** — Real-time collaborative code editor. 10+ concurrent users, sub-100ms latency via Socket.IO.
 
-**ColdIn** *(in progress)* — AI-powered cold email generator. Node.js, Gemini API, JWT auth, MongoDB.
+**ColdIn** — AI-powered cold email generator. Node.js, Gemini API, JWT auth, MongoDB.
 
 ---
