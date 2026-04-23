@@ -14,12 +14,7 @@ I build server-side systems from scratch. APIs, auth flows, database architectur
 ---
 
 ## Projects
-**Backend Ledger** — Core banking system with double-entry ledger, MongoDB transactions, aggregation pipelines, and Nodemailer alerts.
-**CoCode** — Real-time collaborative code editor. 10+ concurrent users, sub-100ms latency via Socket.IO.
-**ColdIn** — AI-powered cold email generator. Node.js, Gemini API, JWT auth, MongoDB.
-
----
-
-## 🚧 In Progress
+**Backend Ledger** — Core banking system with double-entry ledger.
+**CoCode** — Real-time collaborative code editor.
+**ColdIn** — AI-powered cold email generator.
 **CourtVision** — Fantasy basketball league platform. Positional drafting, credit-based team building, nightly score recalculation via background jobs, and league management with invite codes.
-**Stack:** Node.js, Express, PostgreSQL, Prisma, Redis, BullMQ, Docker
