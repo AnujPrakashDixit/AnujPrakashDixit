@@ -26,4 +26,4 @@ I build server-side systems from scratch. APIs, auth flows, database architectur
 
 **ColdIn** — AI-powered cold email generator with JWT auth and user management.
 
-**CourtVision** *(In Progress)* — Fantasy basketball league platform. Positional drafting, credit-based team building, nightly score recalculation via background jobs, and league management with invite codes.
+**DevAsk** *(In Progress)* — DevAsk is an AI-powered codebase exploration tool that allows developers to understand any GitHub repository through natural language questions
